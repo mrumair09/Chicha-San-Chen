@@ -1,0 +1,6 @@
+module Pods_ChiChaSanChen {
+  umbrella header "Pods-ChiChaSanChen-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,34 @@
+PODS:
+  - ACFloatingTextfield-Swift (1.8)
+  - Alamofire (5.8.0)
+  - IQKeyboardManagerSwift (6.5.12)
+  - SCLAlertView (0.8)
+  - SDWebImage (5.18.2):
+    - SDWebImage/Core (= 5.18.2)
+  - SDWebImage/Core (5.18.2)
+
+DEPENDENCIES:
+  - ACFloatingTextfield-Swift
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - SCLAlertView
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - ACFloatingTextfield-Swift
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - SCLAlertView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  ACFloatingTextfield-Swift: c3212cef9548ae58fa914ea1c26a2f9a4f7cd7df
+  Alamofire: 0e92e751b3e9e66d7982db43919d01f313b8eb91
+  IQKeyboardManagerSwift: 371b08cb39664fb56030f5345c815a4ffc74bbc0
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SDWebImage: c0de394d7cf7f9838aed1fd6bb6037654a4572e4
+
+PODFILE CHECKSUM: dd9316c917f95fe614a098ce78c0bad2ca5d6a2e
+
+COCOAPODS: 1.12.1
